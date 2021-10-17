@@ -62,12 +62,6 @@ html{
     }
 }
 @media(max-width: 768px){
-    .parent{
-        width: 100vw;
-        height: 100vh;
-        display: grid;
-        place-items: center;
-    }
     .child{
         width: 90px;
         height: 90px;
